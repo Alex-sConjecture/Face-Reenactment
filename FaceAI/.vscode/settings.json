@@ -1,0 +1,10 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false,
+    "python.linting.pylamaEnabled": false,
+    "python.linting.pydocstyleEnabled": false,
+    "python.pythonPath": "D:\\DFLbuild\\python-3.6.8\\python.exe",
+    "files.exclude": {
+        "**/__pycache__": true
+    }
+}
